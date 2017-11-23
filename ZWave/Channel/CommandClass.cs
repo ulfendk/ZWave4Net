@@ -26,5 +26,6 @@ namespace ZWave.Channel
         Association = 0x85,
         Version = 0x86,
         SensorAlarm = 0x9C,
+        Indicator = 0x87
     }
 }
